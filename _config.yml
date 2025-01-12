@@ -329,8 +329,12 @@ navigation:
   - title: "Home"
     url: /
   - title: "About"
-    url: /about/
+    url: _pages/about/
   - title: "Projects"
-    url: /projects/
+    url: _pages/projects/
   - title: "Contact"
-    url: /contact/
+    url: _pages/contact/
+
+header:
+  nav:
+    enabled: true
