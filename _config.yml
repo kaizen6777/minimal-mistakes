@@ -323,3 +323,14 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# Navigation links
+navigation:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Contact"
+    url: /contact/
